@@ -1,5 +1,5 @@
 # Dictionary Exercise - Shopping Cart
 
 
-- Dictionary exercise for class - create a shopping cart
+- Dictionary exercise for students - create a shopping cart
 
